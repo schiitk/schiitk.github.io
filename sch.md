@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Solved!
-permalink: /sciencecoffeehouse/
+permalink: /hint/sciencecoffeehouse/
 tags: puzzle
 ---
 # You made it 
