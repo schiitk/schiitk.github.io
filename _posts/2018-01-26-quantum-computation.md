@@ -2,7 +2,9 @@
 layout: post
 title: "Quanta on Quantum Computation"
 date: 2018-01-22 00:22:00 +0530
-excerpt: A badly written introduction to quantum complexity, because I am studying cool stuff and wanted to share it! 
+excerpt: A badly written introduction to quantum complexity, because I am studying cool stuff and wanted to share it!
+author: Sagnik Bhattacharya
+homepage : https://sagnikb.github.io/
 comments: true
 ---
 I am currently working on quantum complexity, with a working title of 'adversarial and polynomial methods in quantum query complexity'. If I come across something interesting, I plan to write on it as I guess it will sharpen my understanding of things, and maybe you, the reader, will find it cool too. This is meant as an introduction to the field itself.

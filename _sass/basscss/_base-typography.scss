@@ -105,3 +105,19 @@ h6,
   list-style: none;
   padding-left: 0;
 }
+
+.author-link {
+    display : block;
+    text-align : center;
+    width : 100%;
+}
+
+.author-link a {
+    color : black;
+    text-underline : none;
+    background-image : none;
+}
+
+.author-link a:hover {
+    color : #333;
+}
