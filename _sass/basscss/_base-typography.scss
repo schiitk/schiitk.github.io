@@ -8,9 +8,9 @@ body {
 
 h1,
 h2,
-h3,
 h4,
 h5,
+h3,
 h6 {
   font-family: $heading-font-family;
   font-weight: $heading-font-weight;
@@ -18,6 +18,17 @@ h6 {
   margin-top: 1em;
   margin-bottom: .5em;
 }
+
+/* User defined H3 - PK  */
+
+.py3 h3 {
+  font-family: $heading-font-family;
+  font-weight: $heading-font-weight;
+  line-height: $heading-line-height;
+  margin-top: 1em;
+  margin-bottom : 0;  
+}
+
 
 p,
 dl,
@@ -108,12 +119,12 @@ h6,
 
 .author-link {
     display : block;
-    text-align : center;
     width : 100%;
+    color : #333;
 }
 
 .author-link a {
-    color : black;
+    color : #333;
     text-underline : none;
     background-image : none;
 }

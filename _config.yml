@@ -4,7 +4,8 @@ email:       seek.iitk@gmail.com
 author:      John Otander, Prannay Khosla
 description: "A science and mathematics enthusiast club"
 baseurl:     ""
-url:         "http://<sch>.github.io"
+url:         "http://13.127.158.59:4000/"
+alturl:         "http://13.127.158.59:4000/"
 date_format: "%b %-d, %Y"
 header_pages:
  - posts.html
@@ -109,6 +110,8 @@ text:
     subject:  'New submission!'
     number:   'Phone Number'
     submit:   'Punch It'
+    name:     'Name'
+    batch:    'Batch Year (Example : Y14, Y15, Y16 etc)'
     ajax:
       sending:  'sending..'
       sent:     'Message sent!'
