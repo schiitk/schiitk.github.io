@@ -4,7 +4,10 @@ title: Give a talk
 permalink: /contact/
 tags: contact
 ---
-
+<h3> Hi There!</h3>
+<p>
+    You may email us at <a href="mailto:seek.iitk@gmail.com">seek.iitk@gmail.com</a> or submit the form below. Please do not forget putting in all your details, so that we can contact you when it is time for you to give the talk. You will also have to submit (or get someone to scribe) a description of the talk so that people can see the contents later. 
+</p>
 <div class="py2">
   {% if site.ajaxify_contact_form %}
     <form class="form-stacked">
@@ -29,16 +32,24 @@ tags: contact
   {% else %}
     <form action="https://formspree.io/{{ site.email }}" method="POST" class="form-stacked">
       <label>
+        Name
+        <input type="text" name="name" class="field-light" placeholder="{{ site.text.contact.name }}">
+      </label>
+      <label>
+        Batch
+        <input type="text" name="start-year" class="field-light" placeholder="{{ site.text.contact.batch }}">
+      </label>
+      <label>
         Email
         <input type="text" name="email" class="field-light" placeholder="{{ site.text.contact.email }}">
       </label>
       <label>
         Phone Number
-        <input type="text" name="email" class="field-light" placeholder="{{ site.text.contact.number }}">
+        <input type="text" name="phone" class="field-light" placeholder="{{ site.text.contact.number }}">
       </label>
       <label>
         Abstract
-        <textarea type="text" name="content" class="field-light" rows="5" placeholder="{{ site.text.contact.abstract }}" style="resize: vertical"></textarea>
+        <textarea type="text" name="abstract" class="field-light" rows="5" placeholder="{{ site.text.contact.abstract }}" style="resize: vertical"></textarea>
       </label>
 
       <input type="hidden" name="_next" value="{{ site.baseurl }}/thanks/" />
