@@ -17,7 +17,7 @@
     <link rel="alternate" type="application/rss+xml" title="RSS Feed for Science Coffee House" href="/feed.xml" />
 
     <!-- Custom CSS -->
-    <link rel="stylesheet" href="/css/pixyll.css?201802040522" type="text/css">
+    <link rel="stylesheet" href="/css/pixyll.css?201803271802" type="text/css">
 
     <!-- Fonts -->
     
@@ -88,7 +88,7 @@
     <header class="site-header px2 px-responsive">
   <div class="mt2 wrap">
     <div class="measure">
-      <a href="http://localhost:4000" class="site-title">Science Coffee House</a>
+      <a href="http://13.127.158.59:4000/" class="site-title">Science Coffee House</a>
       <nav class="site-nav">
         
 
@@ -175,20 +175,32 @@
     <h1 class="h2">Give a talk</h1>
   </header>
   <article class="post-content">
-  <div class="py2">
+  <h3> Hi There!</h3>
+<p>
+    You may email us at <a href="mailto:seek.iitk@gmail.com">seek.iitk@gmail.com</a> or submit the form below. Please do not forget putting in all your details, so that we can contact you when it is time for you to give the talk. You will also have to submit (or get someone to scribe) a description of the talk so that people can see the contents later. 
+</p>
+<div class="py2">
   
     <form action="https://formspree.io/seek.iitk@gmail.com" method="POST" class="form-stacked">
+      <label>
+        Name
+        <input type="text" name="name" class="field-light" placeholder="Name">
+      </label>
+      <label>
+        Batch
+        <input type="text" name="start-year" class="field-light" placeholder="Batch Year (Example : Y14, Y15, Y16 etc)">
+      </label>
       <label>
         Email
         <input type="text" name="email" class="field-light" placeholder="Email Address">
       </label>
       <label>
         Phone Number
-        <input type="text" name="email" class="field-light" placeholder="Phone Number">
+        <input type="text" name="phone" class="field-light" placeholder="Phone Number">
       </label>
       <label>
         Abstract
-        <textarea type="text" name="content" class="field-light" rows="5" placeholder="What would you like to give a talk on?" style="resize: vertical"></textarea>
+        <textarea type="text" name="abstract" class="field-light" rows="5" placeholder="What would you like to give a talk on?" style="resize: vertical"></textarea>
       </label>
 
       <input type="hidden" name="_next" value="/thanks/" />

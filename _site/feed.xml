@@ -7,6 +7,19 @@
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
     
       <item>
+        <title>Roth's Theorem</title>
+        <description>&lt;p&gt;Roth’s theorem is a special case of Szemeredi’s theorem, which loosely states that every dense enough subset of the integers must have a non-trivial arithmetic progression of length 3. In this talk, the speaker covered the historical background for this theorem and its many proofs, and discussed some proof ideas.&lt;/p&gt;
+
+&lt;p&gt;A detailed and more formal version of the proof demonstrated in the talk can be found &lt;a href=&quot;https://anuragsahay.github.io/mth392.pdf&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Unfortunately, no video recording is available for this talk.&lt;/p&gt;
+</description>
+        <pubDate>Fri, 26 Jan 2018 00:22:00 +0530</pubDate>
+        <link>http://localhost:4000/2018/01/26/roth/</link>
+        <guid isPermaLink="true">http://localhost:4000/2018/01/26/roth/</guid>
+      </item>
+    
+      <item>
         <title>Quanta on Quantum Computation</title>
         <description>&lt;p&gt;I am currently working on quantum complexity, with a working title of ‘adversarial and polynomial methods in quantum query complexity’. If I come across something interesting, I plan to write on it as I guess it will sharpen my understanding of things, and maybe you, the reader, will find it cool too. This is meant as an introduction to the field itself.&lt;/p&gt;
 
@@ -65,6 +78,84 @@
         <pubDate>Mon, 22 Jan 2018 00:22:00 +0530</pubDate>
         <link>http://localhost:4000/2018/01/22/quantum-computation/</link>
         <guid isPermaLink="true">http://localhost:4000/2018/01/22/quantum-computation/</guid>
+      </item>
+    
+      <item>
+        <title>Infinities and Infinitesimals</title>
+        <description>&lt;p&gt;In our first talk by a faculty member this year, Prof Amit Kuber of the Department of Mathematics and Statistics, IIT Kanpur, introduced non-standard analysis, more specifically the concept of hyperreals. This allows us to formalize notions like infinity and infinitesimal numbers in analysis which often simplifies several proofs. It has been shown that these methods are equivalent to standard methods in analysis.&lt;/p&gt;
+
+&lt;p&gt;The only pre-requisites? Some knowledge of real numbers as taught in an introductory undergraduate level real analysis course (MTH101 here at IITK) and an open mind to learn more mathematics.&lt;/p&gt;
+</description>
+        <pubDate>Sun, 05 Nov 2017 00:22:00 +0530</pubDate>
+        <link>http://localhost:4000/2017/11/05/infinities/</link>
+        <guid isPermaLink="true">http://localhost:4000/2017/11/05/infinities/</guid>
+      </item>
+    
+      <item>
+        <title>Goodstein's Theorem</title>
+        <description>&lt;p&gt;More cool math! In the first talk by the newly entered Y17s, those in attendance were introduced to cardinality, ordinal numbers, all building up to a proof of Goodstein’s theorem. The abstract of the talk is given below.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Can infinity be used to prove finitary results? Indeed sometimes it becomes necessary to use it. We’ll see how a set theoretic idea of infinite ordinals makes it possible to decipher the properties of a rather strange sequence of natural numbers.&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+        <pubDate>Sat, 04 Nov 2017 00:22:00 +0530</pubDate>
+        <link>http://localhost:4000/2017/11/04/goodstein/</link>
+        <guid isPermaLink="true">http://localhost:4000/2017/11/04/goodstein/</guid>
+      </item>
+    
+      <item>
+        <title>Solving Language and Solving AI</title>
+        <description>&lt;p&gt;This talk focuses on drawing parallels between the problems in artificially generating/understanding natural languages and the problems in general AI tasks. The hypothesis of the talk is that if we can ‘solve’ natural language, we also cover a lot of ground in solving major AI problems. The talk mainly focuses on the main problems in AI - sensing and recognition, understanding and exploration, communication and dialogue, and strategy and hypothesis testing and how similar problems are also encountered when thinking about natural language processing.&lt;/p&gt;
+
+&lt;p&gt;Find an overview of the talk &lt;a href=&quot;/resources/prannay_language-ai.pdf&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
+</description>
+        <pubDate>Fri, 15 Sep 2017 00:22:00 +0530</pubDate>
+        <link>http://localhost:4000/2017/09/15/qc/</link>
+        <guid isPermaLink="true">http://localhost:4000/2017/09/15/qc/</guid>
+      </item>
+    
+      <item>
+        <title>Solving Language and Solving AI</title>
+        <description>&lt;p&gt;This talk focuses on drawing parallels between the problems in artificially generating/understanding natural languages and the problems in general AI tasks. The hypothesis of the talk is that if we can ‘solve’ natural language, we also cover a lot of ground in solving major AI problems. The talk mainly focuses on the main problems in AI - sensing and recognition, understanding and exploration, communication and dialogue, and strategy and hypothesis testing and how similar problems are also encountered when thinking about natural language processing.&lt;/p&gt;
+
+&lt;p&gt;Find an overview of the talk &lt;a href=&quot;/resources/prannay_language-ai.pdf&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
+</description>
+        <pubDate>Fri, 15 Sep 2017 00:22:00 +0530</pubDate>
+        <link>http://localhost:4000/2017/09/15/language-ai/</link>
+        <guid isPermaLink="true">http://localhost:4000/2017/09/15/language-ai/</guid>
+      </item>
+    
+      <item>
+        <title>The Halting Problem</title>
+        <description>&lt;p&gt;Why should we study the Halting Problem?
+Because a lot of really practical problems are the halting problem in disguise. A solution to them solves the halting problem. Here are some examples.&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;You want a compiler that finds the fastest possible machine code for a given program. Actually the halting problem.&lt;/li&gt;
+  &lt;li&gt;You have JavaScript, with some variables at a high-security level, and some at a low-security level. You want to make sure that an attacker can’t get at the high-security information. This is also just the halting problem.&lt;/li&gt;
+  &lt;li&gt;You have a parser for your programming language. You change it, but you want to make sure it still parses all the programs it used to. Actually the halting problem.&lt;/li&gt;
+  &lt;li&gt;You have an anti-virus program, and you want to see if it ever executes a malicious instruction. Actually just the halting problem.
+See more on the CS-StackExchange &lt;a href=&quot;https://cs.stackexchange.com/a/32853&quot;&gt;here&lt;/a&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;The speaker introduced foundations of computability theory and recursive functions through this talk, finally building up to the halting problem.&lt;/p&gt;
+</description>
+        <pubDate>Sat, 19 Aug 2017 00:22:00 +0530</pubDate>
+        <link>http://localhost:4000/2017/08/19/halting-problem/</link>
+        <guid isPermaLink="true">http://localhost:4000/2017/08/19/halting-problem/</guid>
+      </item>
+    
+      <item>
+        <title>And you thought you knew infinity</title>
+        <description>&lt;blockquote&gt;
+  &lt;p&gt;‘Obvious’ is the most dangerous word in mathematics. [E. T. Bell]&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Keeping in mind the quote above, one should always remember that (especially in Mathematics) that something that appears obvious or even trivial may not be so easy after all. In this talk, the speaker gives an idea of why this is true, leading a tour through the concept of cardinality, sets and the well-known rational and real numbers, which turn out to be harbouring some hidden secrets.&lt;/p&gt;
+</description>
+        <pubDate>Sun, 13 Aug 2017 00:22:00 +0530</pubDate>
+        <link>http://localhost:4000/2017/08/13/infinity/</link>
+        <guid isPermaLink="true">http://localhost:4000/2017/08/13/infinity/</guid>
       </item>
     
   </channel>

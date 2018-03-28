@@ -2,7 +2,7 @@
 layout: post
 title: "Quanta on Quantum Computation"
 date: 2018-01-22 00:22:00 +0530
-excerpt: A badly written introduction to quantum complexity, because I am studying cool stuff and wanted to share it!
+excerpt: An introduction to quantum complexity
 author: Sagnik Bhattacharya
 homepage : https://sagnikb.github.io/
 minutes : 8
