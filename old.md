@@ -10,7 +10,7 @@ tags: old, members
 
 ## 2015-16
 * [Nihar Gargava](http://home.iitk.ac.in/~nihar/)
-* [Bhuvesh Kumar](http://home.iitk.ac.in/~bhuvesh/)
+* [Bhuvesh Kumar](http://bhuveshkumar.com)
 
 ## 2014-15
 * [Sanjana Gopalakrishnan]()
