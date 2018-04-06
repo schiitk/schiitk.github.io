@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title></title>
-    <link>http://localhost:4000</link>
+    <link>http://0.0.0.0:4000</link>
     <description>
       A science and mathematics enthusiast club
     </description>
@@ -10,7 +10,7 @@
         
             <item>
                 <title>Roth's Theorem</title>
-                <link>http://localhost:4000/2018/01/26/roth/</link>
+                <link>http://0.0.0.0:4000/2018/01/25/roth/</link>
                 <content:encoded>
                     <![CDATA[
                     <p>Roth’s theorem is a special case of Szemeredi’s theorem, which loosely states that every dense enough subset of the integers must have a non-trivial arithmetic progression of length 3. In this talk, the speaker covered the historical background for this theorem and its many proofs, and discussed some proof ideas.</p>
@@ -21,11 +21,11 @@
 
                     ]]>
                 </content:encoded>
-                <guid isPermaLink="false">/2018/01/26/roth/</guid>
+                <guid isPermaLink="false">/2018/01/25/roth/</guid>
                 <description>
                     
                 </description>
-                <pubDate>Fri, 26 Jan 2018 00:22:00 +0530</pubDate>
+                <pubDate>Thu, 25 Jan 2018 18:52:00 +0000</pubDate>
                 <author>John Otander, Prannay Khosla</author>
             </item>
         
@@ -33,7 +33,7 @@
         
             <item>
                 <title>Quanta on Quantum Computation</title>
-                <link>http://localhost:4000/2018/01/22/quantum-computation/</link>
+                <link>http://0.0.0.0:4000/2018/01/21/quantum-computation/</link>
                 <content:encoded>
                     <![CDATA[
                     <p>I am currently working on quantum complexity, with a working title of ‘adversarial and polynomial methods in quantum query complexity’. If I come across something interesting, I plan to write on it as I guess it will sharpen my understanding of things, and maybe you, the reader, will find it cool too. This is meant as an introduction to the field itself.</p>
@@ -92,11 +92,11 @@
 
                     ]]>
                 </content:encoded>
-                <guid isPermaLink="false">/2018/01/22/quantum-computation/</guid>
+                <guid isPermaLink="false">/2018/01/21/quantum-computation/</guid>
                 <description>
                     
                 </description>
-                <pubDate>Mon, 22 Jan 2018 00:22:00 +0530</pubDate>
+                <pubDate>Sun, 21 Jan 2018 18:52:00 +0000</pubDate>
                 <author>John Otander, Prannay Khosla</author>
             </item>
         
@@ -104,7 +104,7 @@
         
             <item>
                 <title>Infinities and Infinitesimals</title>
-                <link>http://localhost:4000/2017/11/05/infinities/</link>
+                <link>http://0.0.0.0:4000/2017/11/04/infinities/</link>
                 <content:encoded>
                     <![CDATA[
                     <p>In our first talk by a faculty member this year, Prof Amit Kuber of the Department of Mathematics and Statistics, IIT Kanpur, introduced non-standard analysis, more specifically the concept of hyperreals. This allows us to formalize notions like infinity and infinitesimal numbers in analysis which often simplifies several proofs. It has been shown that these methods are equivalent to standard methods in analysis.</p>
@@ -113,11 +113,11 @@
 
                     ]]>
                 </content:encoded>
-                <guid isPermaLink="false">/2017/11/05/infinities/</guid>
+                <guid isPermaLink="false">/2017/11/04/infinities/</guid>
                 <description>
                     
                 </description>
-                <pubDate>Sun, 05 Nov 2017 00:22:00 +0530</pubDate>
+                <pubDate>Sat, 04 Nov 2017 18:52:00 +0000</pubDate>
                 <author>John Otander, Prannay Khosla</author>
             </item>
         
@@ -125,7 +125,7 @@
         
             <item>
                 <title>Goodstein's Theorem</title>
-                <link>http://localhost:4000/2017/11/04/goodstein/</link>
+                <link>http://0.0.0.0:4000/2017/11/03/goodstein/</link>
                 <content:encoded>
                     <![CDATA[
                     <p>More cool math! In the first talk by the newly entered Y17s, those in attendance were introduced to cardinality, ordinal numbers, all building up to a proof of Goodstein’s theorem. The abstract of the talk is given below.</p>
@@ -136,11 +136,11 @@
 
                     ]]>
                 </content:encoded>
-                <guid isPermaLink="false">/2017/11/04/goodstein/</guid>
+                <guid isPermaLink="false">/2017/11/03/goodstein/</guid>
                 <description>
                     
                 </description>
-                <pubDate>Sat, 04 Nov 2017 00:22:00 +0530</pubDate>
+                <pubDate>Fri, 03 Nov 2017 18:52:00 +0000</pubDate>
                 <author>John Otander, Prannay Khosla</author>
             </item>
         
@@ -148,41 +148,20 @@
         
             <item>
                 <title>Solving Language and Solving AI</title>
-                <link>http://localhost:4000/2017/09/15/qc/</link>
+                <link>http://0.0.0.0:4000/2017/09/14/language-ai/</link>
                 <content:encoded>
                     <![CDATA[
                     <p>This talk focuses on drawing parallels between the problems in artificially generating/understanding natural languages and the problems in general AI tasks. The hypothesis of the talk is that if we can ‘solve’ natural language, we also cover a lot of ground in solving major AI problems. The talk mainly focuses on the main problems in AI - sensing and recognition, understanding and exploration, communication and dialogue, and strategy and hypothesis testing and how similar problems are also encountered when thinking about natural language processing.</p>
 
-<p>Find an overview of the talk <a href="/resources/prannay_language-ai.pdf">here</a>.</p>
+<p>Find an overview of the talk <a href="/resources/prannay_language-ai.pdf">here</a> along with slides of the <a href="/resources/lang_ai_pres.pdf">presentation</a>.</p>
 
                     ]]>
                 </content:encoded>
-                <guid isPermaLink="false">/2017/09/15/qc/</guid>
+                <guid isPermaLink="false">/2017/09/14/language-ai/</guid>
                 <description>
                     
                 </description>
-                <pubDate>Fri, 15 Sep 2017 00:22:00 +0530</pubDate>
-                <author>John Otander, Prannay Khosla</author>
-            </item>
-        
-    
-        
-            <item>
-                <title>Solving Language and Solving AI</title>
-                <link>http://localhost:4000/2017/09/15/language-ai/</link>
-                <content:encoded>
-                    <![CDATA[
-                    <p>This talk focuses on drawing parallels between the problems in artificially generating/understanding natural languages and the problems in general AI tasks. The hypothesis of the talk is that if we can ‘solve’ natural language, we also cover a lot of ground in solving major AI problems. The talk mainly focuses on the main problems in AI - sensing and recognition, understanding and exploration, communication and dialogue, and strategy and hypothesis testing and how similar problems are also encountered when thinking about natural language processing.</p>
-
-<p>Find an overview of the talk <a href="/resources/prannay_language-ai.pdf">here</a>.</p>
-
-                    ]]>
-                </content:encoded>
-                <guid isPermaLink="false">/2017/09/15/language-ai/</guid>
-                <description>
-                    
-                </description>
-                <pubDate>Fri, 15 Sep 2017 00:22:00 +0530</pubDate>
+                <pubDate>Thu, 14 Sep 2017 18:52:00 +0000</pubDate>
                 <author>John Otander, Prannay Khosla</author>
             </item>
         
@@ -190,7 +169,7 @@
         
             <item>
                 <title>The Halting Problem</title>
-                <link>http://localhost:4000/2017/08/19/halting-problem/</link>
+                <link>http://0.0.0.0:4000/2017/08/18/halting-problem/</link>
                 <content:encoded>
                     <![CDATA[
                     <p>Why should we study the Halting Problem?
@@ -207,11 +186,11 @@ See more on the CS-StackExchange <a href="https://cs.stackexchange.com/a/32853">
 
                     ]]>
                 </content:encoded>
-                <guid isPermaLink="false">/2017/08/19/halting-problem/</guid>
+                <guid isPermaLink="false">/2017/08/18/halting-problem/</guid>
                 <description>
                     
                 </description>
-                <pubDate>Sat, 19 Aug 2017 00:22:00 +0530</pubDate>
+                <pubDate>Fri, 18 Aug 2017 18:52:00 +0000</pubDate>
                 <author>John Otander, Prannay Khosla</author>
             </item>
         
@@ -219,7 +198,7 @@ See more on the CS-StackExchange <a href="https://cs.stackexchange.com/a/32853">
         
             <item>
                 <title>And you thought you knew infinity</title>
-                <link>http://localhost:4000/2017/08/13/infinity/</link>
+                <link>http://0.0.0.0:4000/2017/08/12/infinity/</link>
                 <content:encoded>
                     <![CDATA[
                     <blockquote>
@@ -230,11 +209,11 @@ See more on the CS-StackExchange <a href="https://cs.stackexchange.com/a/32853">
 
                     ]]>
                 </content:encoded>
-                <guid isPermaLink="false">/2017/08/13/infinity/</guid>
+                <guid isPermaLink="false">/2017/08/12/infinity/</guid>
                 <description>
                     
                 </description>
-                <pubDate>Sun, 13 Aug 2017 00:22:00 +0530</pubDate>
+                <pubDate>Sat, 12 Aug 2017 18:52:00 +0000</pubDate>
                 <author>John Otander, Prannay Khosla</author>
             </item>
         

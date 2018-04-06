@@ -3,8 +3,8 @@
   <channel>
     <title>Science Coffee House</title>
     <description>A science and mathematics enthusiast club</description>
-    <link>http://localhost:4000/</link>
-    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
+    <link>http://0.0.0.0:4000/</link>
+    <atom:link href="http://0.0.0.0:4000/feed.xml" rel="self" type="application/rss+xml" />
     
       <item>
         <title>Roth's Theorem</title>
@@ -14,9 +14,9 @@
 
 &lt;p&gt;Unfortunately, no video recording is available for this talk.&lt;/p&gt;
 </description>
-        <pubDate>Fri, 26 Jan 2018 00:22:00 +0530</pubDate>
-        <link>http://localhost:4000/2018/01/26/roth/</link>
-        <guid isPermaLink="true">http://localhost:4000/2018/01/26/roth/</guid>
+        <pubDate>Thu, 25 Jan 2018 18:52:00 +0000</pubDate>
+        <link>http://0.0.0.0:4000/2018/01/25/roth/</link>
+        <guid isPermaLink="true">http://0.0.0.0:4000/2018/01/25/roth/</guid>
       </item>
     
       <item>
@@ -75,9 +75,9 @@
   &lt;/ol&gt;
 &lt;/div&gt;
 </description>
-        <pubDate>Mon, 22 Jan 2018 00:22:00 +0530</pubDate>
-        <link>http://localhost:4000/2018/01/22/quantum-computation/</link>
-        <guid isPermaLink="true">http://localhost:4000/2018/01/22/quantum-computation/</guid>
+        <pubDate>Sun, 21 Jan 2018 18:52:00 +0000</pubDate>
+        <link>http://0.0.0.0:4000/2018/01/21/quantum-computation/</link>
+        <guid isPermaLink="true">http://0.0.0.0:4000/2018/01/21/quantum-computation/</guid>
       </item>
     
       <item>
@@ -86,9 +86,9 @@
 
 &lt;p&gt;The only pre-requisites? Some knowledge of real numbers as taught in an introductory undergraduate level real analysis course (MTH101 here at IITK) and an open mind to learn more mathematics.&lt;/p&gt;
 </description>
-        <pubDate>Sun, 05 Nov 2017 00:22:00 +0530</pubDate>
-        <link>http://localhost:4000/2017/11/05/infinities/</link>
-        <guid isPermaLink="true">http://localhost:4000/2017/11/05/infinities/</guid>
+        <pubDate>Sat, 04 Nov 2017 18:52:00 +0000</pubDate>
+        <link>http://0.0.0.0:4000/2017/11/04/infinities/</link>
+        <guid isPermaLink="true">http://0.0.0.0:4000/2017/11/04/infinities/</guid>
       </item>
     
       <item>
@@ -99,31 +99,20 @@
   &lt;p&gt;Can infinity be used to prove finitary results? Indeed sometimes it becomes necessary to use it. We’ll see how a set theoretic idea of infinite ordinals makes it possible to decipher the properties of a rather strange sequence of natural numbers.&lt;/p&gt;
 &lt;/blockquote&gt;
 </description>
-        <pubDate>Sat, 04 Nov 2017 00:22:00 +0530</pubDate>
-        <link>http://localhost:4000/2017/11/04/goodstein/</link>
-        <guid isPermaLink="true">http://localhost:4000/2017/11/04/goodstein/</guid>
+        <pubDate>Fri, 03 Nov 2017 18:52:00 +0000</pubDate>
+        <link>http://0.0.0.0:4000/2017/11/03/goodstein/</link>
+        <guid isPermaLink="true">http://0.0.0.0:4000/2017/11/03/goodstein/</guid>
       </item>
     
       <item>
         <title>Solving Language and Solving AI</title>
         <description>&lt;p&gt;This talk focuses on drawing parallels between the problems in artificially generating/understanding natural languages and the problems in general AI tasks. The hypothesis of the talk is that if we can ‘solve’ natural language, we also cover a lot of ground in solving major AI problems. The talk mainly focuses on the main problems in AI - sensing and recognition, understanding and exploration, communication and dialogue, and strategy and hypothesis testing and how similar problems are also encountered when thinking about natural language processing.&lt;/p&gt;
 
-&lt;p&gt;Find an overview of the talk &lt;a href=&quot;/resources/prannay_language-ai.pdf&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Find an overview of the talk &lt;a href=&quot;/resources/prannay_language-ai.pdf&quot;&gt;here&lt;/a&gt; along with slides of the &lt;a href=&quot;/resources/lang_ai_pres.pdf&quot;&gt;presentation&lt;/a&gt;.&lt;/p&gt;
 </description>
-        <pubDate>Fri, 15 Sep 2017 00:22:00 +0530</pubDate>
-        <link>http://localhost:4000/2017/09/15/qc/</link>
-        <guid isPermaLink="true">http://localhost:4000/2017/09/15/qc/</guid>
-      </item>
-    
-      <item>
-        <title>Solving Language and Solving AI</title>
-        <description>&lt;p&gt;This talk focuses on drawing parallels between the problems in artificially generating/understanding natural languages and the problems in general AI tasks. The hypothesis of the talk is that if we can ‘solve’ natural language, we also cover a lot of ground in solving major AI problems. The talk mainly focuses on the main problems in AI - sensing and recognition, understanding and exploration, communication and dialogue, and strategy and hypothesis testing and how similar problems are also encountered when thinking about natural language processing.&lt;/p&gt;
-
-&lt;p&gt;Find an overview of the talk &lt;a href=&quot;/resources/prannay_language-ai.pdf&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
-</description>
-        <pubDate>Fri, 15 Sep 2017 00:22:00 +0530</pubDate>
-        <link>http://localhost:4000/2017/09/15/language-ai/</link>
-        <guid isPermaLink="true">http://localhost:4000/2017/09/15/language-ai/</guid>
+        <pubDate>Thu, 14 Sep 2017 18:52:00 +0000</pubDate>
+        <link>http://0.0.0.0:4000/2017/09/14/language-ai/</link>
+        <guid isPermaLink="true">http://0.0.0.0:4000/2017/09/14/language-ai/</guid>
       </item>
     
       <item>
@@ -140,9 +129,9 @@ See more on the CS-StackExchange &lt;a href=&quot;https://cs.stackexchange.com/a
 
 &lt;p&gt;The speaker introduced foundations of computability theory and recursive functions through this talk, finally building up to the halting problem.&lt;/p&gt;
 </description>
-        <pubDate>Sat, 19 Aug 2017 00:22:00 +0530</pubDate>
-        <link>http://localhost:4000/2017/08/19/halting-problem/</link>
-        <guid isPermaLink="true">http://localhost:4000/2017/08/19/halting-problem/</guid>
+        <pubDate>Fri, 18 Aug 2017 18:52:00 +0000</pubDate>
+        <link>http://0.0.0.0:4000/2017/08/18/halting-problem/</link>
+        <guid isPermaLink="true">http://0.0.0.0:4000/2017/08/18/halting-problem/</guid>
       </item>
     
       <item>
@@ -153,9 +142,9 @@ See more on the CS-StackExchange &lt;a href=&quot;https://cs.stackexchange.com/a
 
 &lt;p&gt;Keeping in mind the quote above, one should always remember that (especially in Mathematics) that something that appears obvious or even trivial may not be so easy after all. In this talk, the speaker gives an idea of why this is true, leading a tour through the concept of cardinality, sets and the well-known rational and real numbers, which turn out to be harbouring some hidden secrets.&lt;/p&gt;
 </description>
-        <pubDate>Sun, 13 Aug 2017 00:22:00 +0530</pubDate>
-        <link>http://localhost:4000/2017/08/13/infinity/</link>
-        <guid isPermaLink="true">http://localhost:4000/2017/08/13/infinity/</guid>
+        <pubDate>Sat, 12 Aug 2017 18:52:00 +0000</pubDate>
+        <link>http://0.0.0.0:4000/2017/08/12/infinity/</link>
+        <guid isPermaLink="true">http://0.0.0.0:4000/2017/08/12/infinity/</guid>
       </item>
     
   </channel>
